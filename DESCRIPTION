@@ -1,0 +1,13 @@
+Package: treeda
+Title: Tree Exploratory Data Analysis.
+Version: 0.0.0.9000
+Authors@R: 
+    person("Josh", "Erickson", , "joshua.l.erickson@usda.gov", role = c("aut", "cre"))
+Description: 
+A 'tree exploratory data analysis' repository for workflows with tree canopy height models.  
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports:
+
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
